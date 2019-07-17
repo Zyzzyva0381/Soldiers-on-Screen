@@ -1,0 +1,4 @@
+
+*.xml
+.idea/Soldiers-on-Screen.iml
+*.pyc
